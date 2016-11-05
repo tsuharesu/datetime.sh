@@ -11,6 +11,13 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/icon",
+                    "menuIcon": true,
+                    "name": "IMAGE_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
                     "file": "fonts/perfect_dos",
                     "name": "FONT_DOS_15",
                     "targetPlatforms": null,
