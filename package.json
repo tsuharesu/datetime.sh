@@ -1,0 +1,34 @@
+{
+    "author": "Tsuharesu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "shell-date",
+    "pebble": {
+        "displayName": "shell-date",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/perfect_dos",
+                    "name": "FONT_DOS_15",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "324fca7e-36ee-498c-8872-72db3054bc6e",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
