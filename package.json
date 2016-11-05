@@ -2,9 +2,9 @@
     "author": "Tsuharesu",
     "dependencies": {},
     "keywords": [],
-    "name": "shell-date",
+    "name": "datetime.sh",
     "pebble": {
-        "displayName": "shell-date",
+        "displayName": "datetime.sh",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
